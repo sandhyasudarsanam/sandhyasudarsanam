@@ -78,19 +78,19 @@ B.S. in Cybersecurity | John Martinson Honors Student
 
 
 
-\- \*\*NU Security\*\* | September 2026 – Present  
+\- \*\*NU Security\*\* | September 2026 – Present
 
 &#x20; Participating in mini-CTFs and cybersecurity learning activities.
 
-\- \*\*NU Women in Cybersecurity\*\* | September 2026 – Present  
+\- \*\*NU Women in Cybersecurity\*\* | September 2026 – Present
 
 &#x20; Participating in hands-on Linux and Wireshark activities.
 
-\- \*\*Pinky Swear Pack Club\*\* | September 2026 – Present  
+\- \*\*Pinky Swear Pack Club\*\* | September 2026 – Present
 
 &#x20; Creating care packages for pediatric cancer patients.
 
-\- \*\*Northeastern SPLASH\*\* | September 2026 – Present  
+\- \*\*Northeastern SPLASH\*\* | September 2026 – Present
 
 &#x20; Developing a cybersecurity workshop for grades 8–12.
 
