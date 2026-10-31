@@ -1,16 +1,16 @@
-\# Sandhya Sudarsanam
+# Sandhya Sudarsanam
 
 
 
-Boston, MA | 203-936-9612 | \[Email](mailto:sudarsanam.s@northeastern.edu) | \[LinkedIn](https://www.linkedin.com/in/sandhya-sudarsanam-2086b8427/) | \[GitHub](https://github.com/sandhyasudarsanam)
+Boston, MA | 203-936-9612 | [Email](mailto:sudarsanam.s@northeastern.edu) | [LinkedIn](https://www.linkedin.com/in/sandhya-sudarsanam-2086b8427/) | [GitHub](https://github.com/sandhyasudarsanam)
 
 
 
-\## Education
+## Education
 
 
 
-\*\*Northeastern University\*\* — Boston, MA
+**Northeastern University** — Boston, MA
 
 
 
@@ -18,79 +18,79 @@ B.S. in Cybersecurity | John Martinson Honors Student
 
 
 
-\*Expected May 2030\*
+*Expected May 2030*
 
 
 
-\*\*Relevant Coursework:\*\* Discrete Structures (CS 1800), Program Design and Implementation 1 (CS 2100)
+**Relevant Coursework:** Discrete Structures (CS 1800), Program Design and Implementation 1 (CS 2100)
 
 
 
-\## Projects
+## Projects
 
 
 
-\*\*Linux Security Audit\*\* | Bash, Linux | \[GitHub](https://github.com/sandhyasudarsanam/linux-security-audit)
+**Linux Security Audit** | Bash, Linux | [GitHub](https://github.com/sandhyasudarsanam/linux-security-audit)
 
 
 
-\*August 2026 – September 2026\*
+*August 2026 – September 2026*
 
 
 
-\- Developed a Bash script to audit Linux security settings, including user accounts, listening ports, services, file permissions, firewall status, package updates, and SSH configuration.
+- Developed a Bash script to audit Linux security settings, including user accounts, listening ports, services, file permissions, firewall status, package updates, and SSH configuration.
 
-\- Automated 10+ security checks on Debian/Ubuntu systems to help identify common misconfigurations.
-
-
-
-\## Technical Skills
+- Automated 10+ security checks on Debian/Ubuntu systems to help identify common misconfigurations.
 
 
 
-\- \*\*Programming Languages \& Scripting:\*\* Python, Java, JavaScript, Bash
-
-\- \*\*Web Technologies:\*\* HTML, CSS
-
-\- \*\*Security Tools:\*\* Nmap, Wireshark, Burp Suite
-
-\- \*\*Systems \& Tools:\*\* Linux, Git, GitHub
+## Technical Skills
 
 
 
-\## Certifications \& Training
+- **Programming Languages & Scripting:** Python, Java, JavaScript, Bash
+
+- **Web Technologies:** HTML, CSS
+
+- **Security Tools:** Nmap, Wireshark, Burp Suite
+
+- **Systems & Tools:** Linux, Git, GitHub
 
 
 
-\- \*\*Pre Security Learning Path\*\* — TryHackMe | August 2026
-
-\- \*\*Cybersecurity Fundamentals\*\* — IBM SkillsBuild | June 2025
-
-\- \*\*CompTIA Security+ SY0-701\*\* — In Progress
-
-\- \*\*Cyber Security 101\*\* — TryHackMe | In Progress
-
-\- \*\*Web Security Practice\*\* — PortSwigger Web Security Academy and OWASP Juice Shop
+## Certifications & Training
 
 
 
-\## Activities \& Involvement
+- **Pre Security Learning Path** — TryHackMe | August 2026
+
+- **Cybersecurity Fundamentals** — IBM SkillsBuild | June 2025
+
+- **CompTIA Security+ SY0-701** — In Progress
+
+- **Cyber Security 101** — TryHackMe | In Progress
+
+- **Web Security Practice** — PortSwigger Web Security Academy and OWASP Juice Shop
 
 
 
-\- \*\*NU Security\*\* | September 2026 – Present
+## Activities & Involvement
+
+
+
+- **NU Security** | September 2026 – Present
 
 &#x20; Participating in mini-CTFs and cybersecurity learning activities.
 
-\- \*\*NU Women in Cybersecurity\*\* | September 2026 – Present
+- **NU Women in Cybersecurity** | September 2026 – Present
 
 &#x20; Participating in hands-on Linux and Wireshark activities.
 
-\- \*\*Pinky Swear Pack Club\*\* | September 2026 – Present
+- **Pinky Swear Pack Club** | September 2026 – Present
 
 &#x20; Creating care packages for pediatric cancer patients.
 
-\- \*\*Northeastern SPLASH\*\* | September 2026 – Present
+- **Northeastern SPLASH** | September 2026 – Present
 
 &#x20; Developing a cybersecurity workshop for grades 8–12.
 
