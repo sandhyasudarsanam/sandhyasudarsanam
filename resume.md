@@ -1,6 +1,7 @@
-# Sandhya Sudarsanam
+<h1 align="center">Sandhya Sudarsanam</h1>
 
-Boston, MA | 203-936-9612 | [Email](mailto:sudarsanam.s@northeastern.edu) | [LinkedIn](https://www.linkedin.com/in/sandhya-sudarsanam-2086b8427/) | [GitHub](https://github.com/sandhyasudarsanam)
+<p align="center">
+Boston, MA | 203-936-9612 | <a href ="mailto:sudarsanam.s@northeastern.edu">Email</a> | <a href="https://www.linkedin.com/in/sandhya-sudarsanam-2086b8427/">LinkedIn</a> | <a href="https://github.com/sandhyasudarsanam">GitHub</a>
 
 ## Education
 
