@@ -10,9 +10,13 @@ Boston, MA | 203-936-9612 | \[Email](mailto:sudarsanam.s@northeastern.edu) | \[L
 
 
 
-\*\*Northeastern University\*\* — Boston, MA  
+\*\*Northeastern University\*\* — Boston, MA
 
-B.S. in Cybersecurity | John Martinson Honors Student  
+
+
+B.S. in Cybersecurity | John Martinson Honors Student
+
+
 
 \*Expected May 2030\*
 
@@ -26,7 +30,9 @@ B.S. in Cybersecurity | John Martinson Honors Student
 
 
 
-\*\*Linux Security Audit\*\* | Bash, Linux | \[GitHub](https://github.com/sandhyasudarsanam/linux-security-audit)  
+\*\*Linux Security Audit\*\* | Bash, Linux | \[GitHub](https://github.com/sandhyasudarsanam/linux-security-audit)
+
+
 
 \*August 2026 – September 2026\*
 
@@ -76,13 +82,19 @@ B.S. in Cybersecurity | John Martinson Honors Student
 
 &#x20; Participating in mini-CTFs and cybersecurity learning activities.
 
+
+
 \- \*\*NU Women in Cybersecurity\*\* | September 2026 – Present  
 
 &#x20; Participating in hands-on Linux and Wireshark activities.
 
+
+
 \- \*\*Pinky Swear Pack Club\*\* | September 2026 – Present  
 
 &#x20; Creating care packages for pediatric cancer patients.
+
+
 
 \- \*\*Northeastern SPLASH\*\* | September 2026 – Present  
 
